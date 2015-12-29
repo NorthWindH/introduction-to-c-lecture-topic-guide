@@ -1,6 +1,6 @@
 # Variables
 
-**Recommended Time Use: 15 minutes**
+**Recommended Time Use: 20 minutes**
 
 * Role of a variable
 * Value Containment
