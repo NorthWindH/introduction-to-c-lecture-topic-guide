@@ -1,11 +1,11 @@
 # Expressions 1
 
-* Assign Value Into Variable
-    * Assignment Operator and Output of an Expression
 * Anatomy of an Expression
     * Constants
     * Reading Variables
     * Operators
+* Assign Value Into Variable
+    * Assignment Operator and Output of an Expression
 * Constant Types
     * Integer
     * Float
