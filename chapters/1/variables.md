@@ -8,3 +8,4 @@
 * Addressability
 * Types of Values (integer, float)
 * Data Types
+* Declaring Variables
