@@ -8,12 +8,4 @@
     * Bedmas
     * Parentheses
 * Assign Value Into Variable
-    * Assignment Operator and Output of an Expression
-* Constant Types
-    * Integer
-    * Float
-    * Character
-        * Escape Sequences (newline)
-    * String
-        * Escape Sequences (newline)
-
+    * Assignment Operator and Evaluated Value of an Expression
