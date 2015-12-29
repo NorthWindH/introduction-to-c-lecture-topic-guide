@@ -28,6 +28,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1", "1", "{2059E3B3-23EA-49
 		chapters\1\variables_and_constants.md = chapters\1\variables_and_constants.md
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2", "2", "{83586954-ED37-413D-AB12-09BFDD94D031}"
+	ProjectSection(SolutionItems) = preProject
+		chapters\2\logic.md = chapters\2\logic.md
+		chapters\2\logic_and_style.md = chapters\2\logic_and_style.md
+		chapters\2\style.md = chapters\2\style.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -36,6 +43,7 @@ Global
 		{F5947CAF-E4DA-425B-979E-54984B177E07} = {B6289740-56C6-4FF8-A000-A4526CDD5BEC}
 		{249CCE0F-4DA9-4282-AC4F-8673AA39FF1C} = {F5947CAF-E4DA-425B-979E-54984B177E07}
 		{2059E3B3-23EA-497C-A56D-5D5B55BCE563} = {F5947CAF-E4DA-425B-979E-54984B177E07}
+		{83586954-ED37-413D-AB12-09BFDD94D031} = {F5947CAF-E4DA-425B-979E-54984B177E07}
 	EndGlobalSection
 	GlobalSection(PhysicalSolutionFolders) = postSolution
 		NumEntries = 1
