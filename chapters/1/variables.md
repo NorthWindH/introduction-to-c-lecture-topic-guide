@@ -9,3 +9,6 @@
 * Types of Values (integer, float)
 * Data Types
 * Declaring Variables
+* Assigning Values into Variables
+    * Using Constants
+    * Using Variables
