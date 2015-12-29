@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Computers and Programs](chapters/0/computers_and_programs.md)
-   * Course Breakdown
+   * [Course Breakdown](chapters/0/course_breakdown.md)
    * [Hardware](chapters/0/hardware.md)
    * [Programming](chapters/0/programming.md)
 * [Fundamental Statements](chapters/1/fundamental_statements.md)
