@@ -11,6 +11,12 @@
 * Assigning Values into Variables
     * Using Constants
     * Using Variables
+* Value casting through assignment (eg float -> int)
+* Variable Store Process
+    1. Cast Value to be Stored to Type of Variable
+    2. Replace Content of Variable with Binary Representation of New Value
+* Variable Read Process
+    * Binary Form of Variable Content Interpretted using Type of Variable
 * Constant Types
     * Integer
     * Float
@@ -18,8 +24,3 @@
         * Escape Sequences (newline)
     * String
         * Escape Sequences (newline)
-* Variable Store Process
-    1. Cast Value to be Stored to Type of Variable
-    3. Replace Content of Variable with Binary Representation of New Value
-* Variable Read Process
-    * Binary Form of Variable Content Interpretted using Type of Variable

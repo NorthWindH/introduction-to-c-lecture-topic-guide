@@ -1,8 +1,8 @@
 # Expressions 2
 
+**Lecture Time: 40 Minutes**
+
 * Math
-    * Bedmas
-        * Role of Parentheses
     * Types of Division (integer, float)
     * Modulus
 * Boolean Values
@@ -15,5 +15,7 @@
 * Compound Assignment (..=)
 * Increment, Decrement (++, --)
     * Difference between prefix and postfix
-* Casting
-* Precedence
+    * Ambiguities
+* Explicit casting
+* Operator precedence
+    * Guarantees that assignment operator has lower priority than other math operators

@@ -2,6 +2,7 @@
 
 **Lecture Time: 15 minutes**
 
+* Assign Value into Variable using Evaluated Value of an Expression
 * Anatomy of an Expression
     * Constants
     * Reading Variables
@@ -9,5 +10,3 @@
     * Evaluated Value
     * Bedmas
     * Parentheses
-* Assign Value Into Variable
-    * Assignment Operator and Evaluated Value of an Expression
