@@ -8,5 +8,5 @@
    * [Variables](chapters/1/variables.md)
    * [Expressions 1](chapters/1/expressions_1.md)
    * [Basic Input Output](chapters/1/basic_input_output.md)
-   * Expressions 2
+   * [Expressions 2](chapters/1/expressions_2.md)
 
