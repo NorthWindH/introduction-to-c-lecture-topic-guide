@@ -6,6 +6,6 @@
    * [Programming](chapters/0/programming.md)
 * [Fundamental Statements](chapters/1/fundamental_statements.md)
    * [Variables](chapters/1/variables.md)
-   * Calculations and Subtleties
+   * [Calculations and Subtleties](chapters/1/calculations_and_subtleties.md)
    * Expressions
 
