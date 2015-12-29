@@ -10,4 +10,7 @@
    * [Expressions 1](chapters/1/expressions_1.md)
    * [Basic Input Output](chapters/1/basic_input_output.md)
    * [Expressions 2](chapters/1/expressions_2.md)
-
+* [Logic and Style](chapters/2/logic_and_style.md)
+    * [Selection](chapters/2/selection.md)
+    * [Iteration](chapters/2/iteration.md)
+    * [Style](chapters/2/style.md)
