@@ -6,6 +6,6 @@
    * [Programming](chapters/0/programming.md)
 * [Fundamental Statements](chapters/1/fundamental_statements.md)
    * [Variables](chapters/1/variables.md)
-   * [Expressions](chapters/1/expressions.md)
+   * [Expressions 1](chapters/1/expressions_1.md)
    * [Basic Input Output](chapters/1/basic_input_output.md)
 
