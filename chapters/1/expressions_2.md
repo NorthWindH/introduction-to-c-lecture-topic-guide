@@ -15,3 +15,5 @@
 * Compound Assignment (..=)
 * Increment, Decrement (++, --)
     * Difference between prefix and postfix
+* Casting
+* Precedence
