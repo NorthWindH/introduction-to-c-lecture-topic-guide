@@ -5,6 +5,8 @@
     * Reading Variables
     * Operators
     * Evaluated Value
+    * Bedmas
+    * Parentheses
 * Assign Value Into Variable
     * Assignment Operator and Output of an Expression
 * Constant Types
