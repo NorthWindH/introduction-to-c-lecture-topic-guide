@@ -11,4 +11,6 @@
     * Integer
     * Float
     * Character
+        * Escape Sequences (newline)
     * String
+        * Escape Sequences (newline)
