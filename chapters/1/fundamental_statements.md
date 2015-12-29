@@ -1,2 +1,2 @@
-# Basic Statements
+# Fundamental Statements
 
