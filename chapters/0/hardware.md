@@ -1,7 +1,7 @@
 # Hardware
 
 * Input, CPU + Memory, Output
-* Input Types
+* Input Hardware Types
 * Output Types
 * Role of Memory
     * Bits and Bytes
