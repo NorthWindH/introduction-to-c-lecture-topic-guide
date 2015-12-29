@@ -4,6 +4,7 @@
     * Constants
     * Reading Variables
     * Operators
+    * Evaluated Value
 * Assign Value Into Variable
     * Assignment Operator and Output of an Expression
 * Constant Types
