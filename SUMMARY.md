@@ -7,4 +7,5 @@
 * [Fundamental Statements](chapters/1/fundamental_statements.md)
    * [Variables](chapters/1/variables.md)
    * [Expressions](chapters/1/expressions.md)
+   * Basic Input Output
 
