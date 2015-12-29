@@ -5,4 +5,5 @@
    * [Hardware](chapters/0/hardware.md)
    * [Programming](chapters/0/programming.md)
 * [Fundamental Statements](chapters/1/fundamental_statements.md)
+   * Variables
 
