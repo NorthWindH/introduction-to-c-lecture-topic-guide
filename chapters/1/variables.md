@@ -6,7 +6,8 @@
 * Addressability
 * Types of Values (integer, float)
 * Data Types
-* Variable Values vs Constants
+* Assign Value Into Variable
+    * Assignment Operator and Output of an Expression
 * Constant Types
     * Integer
     * Float
