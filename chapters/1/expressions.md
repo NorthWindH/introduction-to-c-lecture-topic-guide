@@ -2,6 +2,7 @@
 
 * Assign Value Into Variable
     * Assignment Operator and Output of an Expression
+* Anatomy of an Expression
 * Constant Types
     * Integer
     * Float
