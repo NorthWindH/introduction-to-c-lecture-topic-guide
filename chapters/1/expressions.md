@@ -3,5 +3,5 @@
 * Math
     * Bedmas
         * Role of Parentheses
-    * Types of Division
+    * Types of Division (integer, float)
     * Modulus
