@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* Computers and Programs
+* [Computers and Programs](chapters/0/computers_and_programs.md)
 
