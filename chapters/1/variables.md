@@ -12,3 +12,10 @@
 * Assigning Values into Variables
     * Using Constants
     * Using Variables
+* Constant Types
+    * Integer
+    * Float
+    * Character
+        * Escape Sequences (newline)
+    * String
+        * Escape Sequences (newline)
