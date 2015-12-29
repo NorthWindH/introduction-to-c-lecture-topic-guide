@@ -1,8 +1,9 @@
 # Variables
 
 * Role of a variable
-* Addressability
 * Value Containment
+* Memory Usage
+* Addressability
 * Types of Values (integer, float)
 * Data Types
 * Variable Values vs Constants
