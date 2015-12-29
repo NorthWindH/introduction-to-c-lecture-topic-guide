@@ -2,7 +2,7 @@
 
 * Input, CPU + Memory, Output
 * Input Hardware Types
-* Output Types
+* Output Hardware Types
 * Role of Memory
     * Bits and Bytes
     * Addressing
