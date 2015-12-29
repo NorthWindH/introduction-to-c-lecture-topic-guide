@@ -8,4 +8,5 @@
     * Main function
     * Basic syntax
         * Calling a Function
+            * Arguments
         * Printf

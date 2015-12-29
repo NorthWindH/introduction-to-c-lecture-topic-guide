@@ -1,6 +1,6 @@
 # Variables and Constants
 
-**Recommended Time Use: 20 minutes**
+**Lecture Time: 20 minutes**
 
 * Role of a variable
 * Memory Usage
@@ -18,3 +18,8 @@
         * Escape Sequences (newline)
     * String
         * Escape Sequences (newline)
+* Variable Store Process
+    1. Cast Value to be Stored to Type of Variable
+    3. Replace Content of Variable with Binary Representation of New Value
+* Variable Read Process
+    * Binary Form of Variable Content Interpretted using Type of Variable

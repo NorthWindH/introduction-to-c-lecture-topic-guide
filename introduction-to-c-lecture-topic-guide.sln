@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Markdown", "Markdown", "{B6289740-56C6-4FF8-A000-A4526CDD5BEC}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+		SUMMARY.md = SUMMARY.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "chapters", "chapters", "{F5947CAF-E4DA-425B-979E-54984B177E07}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0", "0", "{249CCE0F-4DA9-4282-AC4F-8673AA39FF1C}"
+	ProjectSection(SolutionItems) = preProject
+		chapters\0\computers_and_programs.md = chapters\0\computers_and_programs.md
+		chapters\0\course_breakdown.md = chapters\0\course_breakdown.md
+		chapters\0\hardware.md = chapters\0\hardware.md
+		chapters\0\programming.md = chapters\0\programming.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1", "1", "{2059E3B3-23EA-497C-A56D-5D5B55BCE563}"
+	ProjectSection(SolutionItems) = preProject
+		chapters\1\basic_input_output.md = chapters\1\basic_input_output.md
+		chapters\1\expressions_1.md = chapters\1\expressions_1.md
+		chapters\1\expressions_2.md = chapters\1\expressions_2.md
+		chapters\1\fundamental_statements.md = chapters\1\fundamental_statements.md
+		chapters\1\variables_and_constants.md = chapters\1\variables_and_constants.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F5947CAF-E4DA-425B-979E-54984B177E07} = {B6289740-56C6-4FF8-A000-A4526CDD5BEC}
+		{249CCE0F-4DA9-4282-AC4F-8673AA39FF1C} = {F5947CAF-E4DA-425B-979E-54984B177E07}
+		{2059E3B3-23EA-497C-A56D-5D5B55BCE563} = {F5947CAF-E4DA-425B-979E-54984B177E07}
+	EndGlobalSection
+	GlobalSection(PhysicalSolutionFolders) = postSolution
+		NumEntries = 1
+		0SolutionFolder = Markdown
+		0PhysicalFolder = ..\introduction-to-c-lecture-topic-guide
+		0Filter = \.md
+		0DirFilter = .*
+		0Relative = True
+		0Recursive = True
+		0Force = False
+		0DropEmpty = True
+	EndGlobalSection
+EndGlobal

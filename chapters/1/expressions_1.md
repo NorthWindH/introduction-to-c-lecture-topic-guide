@@ -1,5 +1,7 @@
 # Expressions 1
 
+**Lecture Time: 15 minutes**
+
 * Anatomy of an Expression
     * Constants
     * Reading Variables
