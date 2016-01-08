@@ -1,3 +1,3 @@
 # Style
 
-**Lecture Time: 30 Minutes**
+**Lecture Time: 15 Minutes**

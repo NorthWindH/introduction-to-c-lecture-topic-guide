@@ -11,5 +11,7 @@
    * [Basic Input Output](chapters/2/basic_input_output.md)
    * [Expressions 2](chapters/2/expressions_2.md)
 * [Logic and Style](chapters/3/logic_and_style.md)
-    * [Logic](chapters/3/logic.md)
+    * [Structured Programming](chapters/3/structured_programming.md)
+    * [Selection Structures](chapters/3/selection_structures.md)
+    * [Looping Structures](chapters/3/looping_structures.md)
     * [Style](chapters/3/style.md)
