@@ -4,9 +4,10 @@
 
 * Variable address
 * How addresses are assigned
-* Address operator
 * Pointer variable types
     * Size of a pointer
+* Address operator
+* Dereference operator
 * NULL
 * Pointers as function parameters
     * Pass by address
