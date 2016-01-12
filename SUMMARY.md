@@ -15,3 +15,7 @@
     * [Selection Structures](chapters/3/selection_structures.md)
     * [Looping Structures](chapters/3/looping_structures.md)
     * [Style](chapters/3/style.md)
+* [Functions and Walkthroughs](chapters/4/functions_and_walkthroughs.md)
+    * [Functions](chapters/4/functions.md)
+    * [Scope](chapters/4/scope.md)
+    * [Walkthroughs](chapters/4/walkthroughs.md)
