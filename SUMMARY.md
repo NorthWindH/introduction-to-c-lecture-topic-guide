@@ -22,3 +22,5 @@
 * Pointers and Output
     * [Pointers](chapters/5/pointers.md)
     * [Output](chapters/5/output.md)
+* Input
+    * [Input](chapters/6/input.md)

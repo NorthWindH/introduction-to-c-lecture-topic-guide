@@ -47,6 +47,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5", "5", "{3DC65357-DB86-4C
 		chapters\5\pointers.md = chapters\5\pointers.md
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6", "6", "{75C26C62-C6B2-47DC-939C-E152FA8C4DCD}"
+	ProjectSection(SolutionItems) = preProject
+		chapters\6\input.md = chapters\6\input.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -58,6 +63,7 @@ Global
 		{52D9D247-96DF-4DE1-9F28-0933210D1EFB} = {F5947CAF-E4DA-425B-979E-54984B177E07}
 		{0A0B1B92-24B8-4E9D-83D7-CAE2CD4A1C03} = {F5947CAF-E4DA-425B-979E-54984B177E07}
 		{3DC65357-DB86-4CED-A07A-BCEC3EBCDE74} = {F5947CAF-E4DA-425B-979E-54984B177E07}
+		{75C26C62-C6B2-47DC-939C-E152FA8C4DCD} = {F5947CAF-E4DA-425B-979E-54984B177E07}
 	EndGlobalSection
 	GlobalSection(PhysicalSolutionFolders) = postSolution
 		NumEntries = 1
