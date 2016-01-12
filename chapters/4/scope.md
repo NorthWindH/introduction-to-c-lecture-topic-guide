@@ -8,4 +8,4 @@
         * What they are
         * Which memory do they occupy
         * Why we don't use globals
-* #define visibility
+* \#define visibility
