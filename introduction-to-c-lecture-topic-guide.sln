@@ -13,7 +13,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "chapters", "chapters", "{F5
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1", "1", "{2059E3B3-23EA-497C-A56D-5D5B55BCE563}"
 	ProjectSection(SolutionItems) = preProject
-		chapters\1\computers_and_programs.md = chapters\1\computers_and_programs.md
 		chapters\1\course_breakdown.md = chapters\1\course_breakdown.md
 		chapters\1\hardware.md = chapters\1\hardware.md
 		chapters\1\programming.md = chapters\1\programming.md
@@ -24,13 +23,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2", "2", "{83586954-ED37-41
 		chapters\2\basic_input_output.md = chapters\2\basic_input_output.md
 		chapters\2\expressions_1.md = chapters\2\expressions_1.md
 		chapters\2\expressions_2.md = chapters\2\expressions_2.md
-		chapters\2\fundamental_statements.md = chapters\2\fundamental_statements.md
 		chapters\2\variables_and_constants.md = chapters\2\variables_and_constants.md
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3", "3", "{52D9D247-96DF-4DE1-9F28-0933210D1EFB}"
 	ProjectSection(SolutionItems) = preProject
-		chapters\3\logic_and_style.md = chapters\3\logic_and_style.md
 		chapters\3\looping_structures.md = chapters\3\looping_structures.md
 		chapters\3\selection_structures.md = chapters\3\selection_structures.md
 		chapters\3\structured_programming.md = chapters\3\structured_programming.md
@@ -40,7 +37,6 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4", "4", "{0A0B1B92-24B8-4E9D-83D7-CAE2CD4A1C03}"
 	ProjectSection(SolutionItems) = preProject
 		chapters\4\functions.md = chapters\4\functions.md
-		chapters\4\functions_and_walkthroughs.md = chapters\4\functions_and_walkthroughs.md
 		chapters\4\scope.md = chapters\4\scope.md
 		chapters\4\walkthroughs.md = chapters\4\walkthroughs.md
 	EndProjectSection
@@ -49,7 +45,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5", "5", "{3DC65357-DB86-4C
 	ProjectSection(SolutionItems) = preProject
 		chapters\5\output.md = chapters\5\output.md
 		chapters\5\pointers.md = chapters\5\pointers.md
-		chapters\5\pointers_and_output.md = chapters\5\pointers_and_output.md
 	EndProjectSection
 EndProject
 Global
