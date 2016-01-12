@@ -19,3 +19,6 @@
     * [Functions](chapters/4/functions.md)
     * [Scope](chapters/4/scope.md)
     * [Walkthroughs](chapters/4/walkthroughs.md)
+* [Pointers and Output](chapters/5/pointers_and_output.md)
+    * [Pointers](chapters/5/pointers.md)
+    * [Output](chapters/5/output.md)
