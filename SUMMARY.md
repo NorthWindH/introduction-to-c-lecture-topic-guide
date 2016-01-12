@@ -24,3 +24,5 @@
     * [Output](chapters/5/output.md)
 * Input
     * [Input](chapters/6/input.md)
+* Libraries
+    * [Libraries](chapters/7/libraries.md)
