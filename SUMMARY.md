@@ -26,3 +26,8 @@
     * [Input](chapters/6/input.md)
 * Libraries
     * [Libraries](chapters/7/libraries.md)
+* Arrays
+    * [Arrays in Memory](chapters/8/arrays_in_memory.md)
+    * [Using Arrays](chapters/8/using_arrays.md)
+    * [Initializing Arrays](chapters/8/initializing_arrays.md)
+    * [Array Function Arguments](chapters/8/array_function_arguments.md)

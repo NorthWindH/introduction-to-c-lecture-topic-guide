@@ -57,6 +57,14 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7", "7", "{F596495A-BEAF-4E
 		chapters\7\libraries.md = chapters\7\libraries.md
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "8", "8", "{F7A8063B-4633-43E2-8F45-E15F19F48B11}"
+	ProjectSection(SolutionItems) = preProject
+		chapters\8\array_function_arguments.md = chapters\8\array_function_arguments.md
+		chapters\8\arrays_in_memory.md = chapters\8\arrays_in_memory.md
+		chapters\8\initializing_arrays.md = chapters\8\initializing_arrays.md
+		chapters\8\using_arrays.md = chapters\8\using_arrays.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -70,6 +78,7 @@ Global
 		{3DC65357-DB86-4CED-A07A-BCEC3EBCDE74} = {F5947CAF-E4DA-425B-979E-54984B177E07}
 		{75C26C62-C6B2-47DC-939C-E152FA8C4DCD} = {F5947CAF-E4DA-425B-979E-54984B177E07}
 		{F596495A-BEAF-4EEF-A170-A5E61CCDC0F9} = {F5947CAF-E4DA-425B-979E-54984B177E07}
+		{F7A8063B-4633-43E2-8F45-E15F19F48B11} = {F5947CAF-E4DA-425B-979E-54984B177E07}
 	EndGlobalSection
 	GlobalSection(PhysicalSolutionFolders) = postSolution
 		NumEntries = 1
